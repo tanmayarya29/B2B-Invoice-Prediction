@@ -1,0 +1,22 @@
+.LeftBtn{
+    color:white !important;
+    border:2px solid #14AFF1 !important;
+    border-color:#14AFF1;
+}
+
+.LeftBtn:disabled{
+    color:white !important;
+    border:2px solid grey !important;
+}
+
+.LeftBtn:hover{
+    color:white;
+    border:2px solid #14AFF1 !important;
+    background-color: #14AFF1 !important;
+}
+
+/* Search-box TextField */
+.SearchBox{
+    background-color: white !important;
+    border-radius: 5px !important;
+}
